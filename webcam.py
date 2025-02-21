@@ -39,3 +39,8 @@ while cap.isOpened():
 # Release resources
 cap.release()
 cv2.destroyAllWindows()
+#Developed by: Wazingwa Mugala
+#Date: 2021-09-05
+#Location: Zambia
+#Purpose: To detect objects in real-time using YOLOv9 model
+#References: 
